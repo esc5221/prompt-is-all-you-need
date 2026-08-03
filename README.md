@@ -1,5 +1,17 @@
 # prompt-is-all-you-need
 
+> **[esc5221/claude-kit](https://github.com/esc5221/claude-kit) 으로 옮겼다.**
+>
+> 아래 만트라 프로토콜은 `mantra-protocol` 플러그인으로 스킬화됐다. 원문 프롬프트(한/영)도
+> `plugins/mantra-protocol/prompts/` 에 그대로 들어 있다.
+>
+> ```
+> /plugin marketplace add esc5221/claude-kit
+> /plugin install mantra-protocol@lullu
+> ```
+>
+> 이 저장소는 아카이브했다. 아래 내용은 기록용으로 남긴다.
+
 ### mantra protocol
 ```
 [MANTRA 프로토콜 시작]
